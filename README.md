@@ -43,6 +43,7 @@ Through building this project, I practiced and improved my understanding of:
 - Organizing and structuring a larger frontend project
 
 ## Live Demo
+
 https://react-task-manager-azure-three.vercel.app/
 
 ## Run Locally
