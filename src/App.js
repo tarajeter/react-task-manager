@@ -6,8 +6,6 @@ import './App.css';
 
 function App() {
 
-  const[task, setTask] = useState("");
-
   const [filter, setFilter] = useState("all");
 
   const [searchTerm, setSearchTerm] = useState("");
